@@ -1,0 +1,310 @@
+{
+    "language": "es",
+    "usage": {
+        "text_units": 1,
+        "text_characters": 161,
+        "features": 2
+    },
+    "entities": [{
+            "text": "conductor",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.999947,
+            "count": 1,
+            "type": "PERSONA"
+        },
+        {
+            "text": "2020",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.999857,
+            "count": 1,
+            "type": "MODELO"
+        },
+        {
+            "text": "camioneta",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.999099,
+            "count": 1,
+            "type": "VEHICULO"
+        },
+        {
+            "text": "1996",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.997485,
+            "count": 1,
+            "type": "MODELO"
+        },
+        {
+            "text": "mazda",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.99748,
+            "count": 1,
+            "type": "MARCA"
+        },
+        {
+            "text": "choque",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.996601,
+            "count": 1,
+            "type": "INCIDENTE"
+        },
+        {
+            "text": "sufrieron heridas menores",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.981032,
+            "count": 1,
+            "type": "RESULTADO_ACCIDENTE"
+        },
+        {
+            "text": "mazda",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.978916,
+            "count": 1,
+            "type": "MARCA"
+        },
+        {
+            "text": "persona",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.955842,
+            "count": 1,
+            "type": "PERSONA"
+        },
+        {
+            "text": "ford",
+            "disambiguation": {
+                "subtype": [
+                    "NONE"
+                ]
+            },
+            "confidence": 0.764998,
+            "count": 1,
+            "type": "MARCA"
+        }
+    ],
+    "relations": [{
+            "arguments": [{
+                    "text": "camioneta",
+                    "location": [
+                        30,
+                        39
+                    ],
+                    "entities": [{
+                        "text": "camioneta",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "VEHICULO"
+                    }]
+                },
+                {
+                    "text": "mazda",
+                    "location": [
+                        40,
+                        45
+                    ],
+                    "entities": [{
+                        "text": "mazda",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "MARCA"
+                    }]
+                }
+            ],
+            "sentence": "En Neiva una persona choco su camioneta mazda 2020, el choque fue contra un auto ford 1996, los pasajeros sufrieron heridas menores, el conductor del mazda murio",
+            "score": 0.64837,
+            "type": "tiene"
+        },
+        {
+            "arguments": [{
+                    "text": "camioneta",
+                    "location": [
+                        30,
+                        39
+                    ],
+                    "entities": [{
+                        "text": "camioneta",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "VEHICULO"
+                    }]
+                },
+                {
+                    "text": "2020",
+                    "location": [
+                        46,
+                        50
+                    ],
+                    "entities": [{
+                        "text": "2020",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "MODELO"
+                    }]
+                }
+            ],
+            "sentence": "En Neiva una persona choco su camioneta mazda 2020, el choque fue contra un auto ford 1996, los pasajeros sufrieron heridas menores, el conductor del mazda murio",
+            "score": 0.562633,
+            "type": "tiene"
+        },
+        {
+            "arguments": [{
+                    "text": "choque",
+                    "location": [
+                        55,
+                        61
+                    ],
+                    "entities": [{
+                        "text": "choque",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "INCIDENTE"
+                    }]
+                },
+                {
+                    "text": "camioneta",
+                    "location": [
+                        30,
+                        39
+                    ],
+                    "entities": [{
+                        "text": "camioneta",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "VEHICULO"
+                    }]
+                }
+            ],
+            "sentence": "En Neiva una persona choco su camioneta mazda 2020, el choque fue contra un auto ford 1996, los pasajeros sufrieron heridas menores, el conductor del mazda murio",
+            "score": 0.695001,
+            "type": "puntoDeImpacto"
+        },
+        {
+            "arguments": [{
+                    "text": "sufrieron heridas menores",
+                    "location": [
+                        106,
+                        131
+                    ],
+                    "entities": [{
+                        "text": "sufrieron heridas menores",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "RESULTADO_ACCIDENTE"
+                    }]
+                },
+                {
+                    "text": "choque",
+                    "location": [
+                        55,
+                        61
+                    ],
+                    "entities": [{
+                        "text": "choque",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "INCIDENTE"
+                    }]
+                }
+            ],
+            "sentence": "En Neiva una persona choco su camioneta mazda 2020, el choque fue contra un auto ford 1996, los pasajeros sufrieron heridas menores, el conductor del mazda murio",
+            "score": 0.332841,
+            "type": "resultadoDe"
+        },
+        {
+            "arguments": [{
+                    "text": "1996",
+                    "location": [
+                        86,
+                        90
+                    ],
+                    "entities": [{
+                        "text": "1996",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "MODELO"
+                    }]
+                },
+                {
+                    "text": "ford",
+                    "location": [
+                        81,
+                        85
+                    ],
+                    "entities": [{
+                        "text": "ford",
+                        "disambiguation": {
+                            "subtype": [
+                                "NONE"
+                            ]
+                        },
+                        "type": "MARCA"
+                    }]
+                }
+            ],
+            "sentence": "En Neiva una persona choco su camioneta mazda 2020, el choque fue contra un auto ford 1996, los pasajeros sufrieron heridas menores, el conductor del mazda murio",
+            "score": 0.61504,
+            "type": "tiene"
+        }
+    ]
+}

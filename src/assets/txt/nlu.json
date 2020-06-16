@@ -1,0 +1,194 @@
+[
+  {
+    "type": "Estructura",
+    "text": "Carretera"
+  },
+  {
+    "type": "Persona",
+    "text": "Carriles"
+  },
+  {
+    "type": "Persona",
+    "text": "Personas"
+  },
+  {
+    "type": "Modelo",
+    "text": "2017"
+  },
+  {
+    "type": "Modelo",
+    "text": "Jetta"
+  },
+  {
+    "type": "Marca",
+    "text": "Hyundai"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Ejes"
+  },
+  {
+    "type": "Incidente",
+    "text": "Impacto"
+  },
+  {
+    "type": "Estructura",
+    "text": "Carril"
+  },
+  {
+    "type": "Placa",
+    "text": "MTR980"
+  },
+  {
+    "type": "Vehiculo",
+    "text": "Vehículo"
+  },
+  {
+    "type": "Persona",
+    "text": "Conductora"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Ejes delanteros"
+  },
+  {
+    "type": "Placa",
+    "text": "JIO706"
+  },
+  {
+    "type": "Persona",
+    "text": "3 peatones"
+  },
+  {
+    "type": "Estructura",
+    "text": "Carril contrario"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Lateral/delantera izquierda"
+  },
+  {
+    "type": "Condicion",
+    "text": "Clima estaba"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Trasera izquierda"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Ejes traseros"
+  },
+  {
+    "type": "Estructura",
+    "text": "Carril derecho"
+  },
+  {
+    "type": "Persona",
+    "text": "3 personas"
+  },
+  {
+    "type": "Condicion",
+    "text": "Se abre mas de la cuenta"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Placas"
+  },
+  {
+    "type": "Marca",
+    "text": "Volswagen"
+  },
+  {
+    "type": "Condicion",
+    "text": "No tenia señalización"
+  },
+  {
+    "type": "Incidente",
+    "text": "No alcanza a dar la curva"
+  },
+  {
+    "type": "Incidente",
+    "text": "Pivotea"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Puerta del pasajero trasera"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Parte trasera derecha"
+  },
+  {
+    "type": "Resultado_accidente",
+    "text": "Lesionado de gravedad"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Baúl"
+  },
+  {
+    "type": "Incidente",
+    "text": "Invade mi carril"
+  },
+  {
+    "type": "Persona",
+    "text": "Peatones"
+  },
+  {
+    "type": "Incidente",
+    "text": "Impacta"
+  },
+  {
+    "type": "Condicion",
+    "text": "Lluvias recientes"
+  },
+  {
+    "type": "Estructura",
+    "text": "Curva hacia la izquierda"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Puerta del pasajero trasera"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Parte trasera derecha"
+  },
+  {
+    "type": "Resultado_accidente",
+    "text": "Lesionado de gravedad"
+  },
+  {
+    "type": "Parte_del_carro",
+    "text": "Baúl"
+  },
+  {
+    "type": "Incidente",
+    "text": "Invade mi carril"
+  },
+  {
+    "type": "Persona",
+    "text": "Peatones"
+  },
+  {
+    "type": "Incidente",
+    "text": "Impacta"
+  },
+  {
+    "type": "Condicion",
+    "text": "Lluvias recientes"
+  },
+  {
+    "type": "Estructura",
+    "text": "Curva hacia la izquierda"
+  },
+  {
+    "type": "Persona",
+    "text": "La conductora"
+  },
+  {
+    "type": "Estructura",
+    "text": "Aceras"
+  }
+]

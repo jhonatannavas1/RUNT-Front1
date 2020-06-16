@@ -1,0 +1,25 @@
+.navs {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.blues {
+    background: url(../../../assets/img/fondo-rayas.jpg);
+}
+
+.navbar {
+    background: url(../../../assets/img/fondo_header.jpg);
+    z-index: 1;
+    height: 90px;
+}
+
+.navbar-brand {
+    width: 220px;
+    height: 60px;
+    background: url(../../../assets/img/runt.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-indent: -999999px;
+    align-content: stretch;
+}

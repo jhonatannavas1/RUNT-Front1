@@ -1,0 +1,11 @@
+{
+    "texto": "En Neiva una persona choco su camioneta mazda 2020, el choque fue contra un auto ford 1996, los pasajeros sufrieron heridas menores, el conductor del mazda murio",
+    "vehiculos": [
+        "camioneta",
+        "sedan"
+    ],
+    "marca": "Mazda",
+    "modelo": "2020",
+    "accidente": "choque contra auto",
+    "resultado": "heridas menores"
+}
